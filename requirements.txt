@@ -1,5 +1,4 @@
 openai
-chromadb==1.5.9
 python-dotenv
 bandit
 pip-audit
